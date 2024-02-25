@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Funciones_Hash:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Funciones_Hash_jar</output-path>
+    <root id="archive" name="Funciones_Hash.jar">
+      <element id="module-output" name="Funciones_Hash" />
+    </root>
+  </artifact>
+</component>
